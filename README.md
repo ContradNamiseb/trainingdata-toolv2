@@ -49,3 +49,8 @@ Max files per directory set to: 500
 Verbose mode ON
 Lichess mode ON
  ```
+```
+This is only for testing
+```
+Versions:
+v0.00
